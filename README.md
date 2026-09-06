@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# Date:5/09/2026
-# Name: Virumaa Harish M
-# Register no: 212223230246
+# Name: Tamil Pavalan M
+# Register no: 212223110058
+# Date: 06/09/2026
 # Aim
 To solve Implementation of Classical Planning Algorithm using python
 
